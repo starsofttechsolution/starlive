@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5fc7203898268a125c320b0f"
+  },
+  "type": "google",
+  "show": true,
+  "createdAt": {
+    "$date": "2020-12-02T05:03:52.938Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-27T05:40:17.943Z"
+  },
+  "__v": 0,
+  "interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "reward": "ca-app-pub-3940256099942544/5224354917",
+  "banner": "ca-app-pub-3940256099942544/6300978111",
+  "publisherId": "PUBLISHER_ID",
+  "native": "ca-app-pub-3940256099942544/2247696110"
+},{
+  "_id": {
+    "$oid": "5fc7206198268a125c320b10"
+  },
+  "type": "facebook",
+  "show": true,
+  "banner": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "interstitial": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "reward": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "createdAt": {
+    "$date": "2020-12-02T05:04:33.816Z"
+  },
+  "updatedAt": {
+    "$date": "2021-04-27T05:40:19.294Z"
+  },
+  "__v": 0,
+  "native": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID"
+}]

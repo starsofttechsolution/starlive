@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "603495caadbb3347fcf532af"
+  },
+  "flag": true,
+  "name": "admin",
+  "email": "admin@admin.com",
+  "password": "$2a$10$Zn96KO2xXcp4q2iTrURqbeMHgSqViUI0SJhr6oFE9MzJZKqDnfOAu",
+  "createdAt": {
+    "$date": "2021-02-23T05:42:34.362Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-01T12:51:06.332Z"
+  },
+  "__v": 0,
+  "image": "storage/1617612849145team-4.jpg",
+  "key": null,
+  "package": null
+}]
